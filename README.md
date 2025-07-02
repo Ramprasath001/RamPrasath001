@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm Ram Prasath 🌟<br>🎓 I'm a Computer Science graduate passionate about Full Stack Development and Software Development.  <br>📚 I'm learning Python, SQL, Power BI, React, and Flask.  <br>🛠️ Built projects like a Deepfake Detection System and Smart Reminder using Replit.  <br>🎯 My goal is to become a skilled Software Developer.  <br>🙏 Thank you for visiting my profile!<br>
+<center># 💫 About Me:
+👋 Hello, I'm Ram Prasath 🌟<br>🎓 I'm a Computer Science graduate passionate about Full Stack Development and Software Development.  <br>📚 I'm learning Python, SQL, Power BI, React, and Flask.  <br>🛠️ Built projects like a Deepfake Detection System and Smart Reminder using Replit.  <br>🎯 My goal is to become a skilled Software Developer.  <br>🙏 Thank you for visiting my profile!</center><br>
 
 
 ## 🌐 Socials:
