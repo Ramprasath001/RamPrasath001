@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Prasath ✨</h1>
 <h3 align="center">A passionate Software Developer from India 🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramprasath001&label=Profile%20views&color=0e75b6&style=flat" alt="ramprasath001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramprasath001" alt="ramprasath001" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://ramprasath001.github.io/my-portfolio/](https://ramprasath001.github.io/my-portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ramprasathofficial00/](https://www.linkedin.com/in/ramprasathofficial00/)
