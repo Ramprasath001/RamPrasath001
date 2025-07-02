@@ -1,18 +1,23 @@
-<center># 💫 About Me:
-👋 Hello, I'm Ram Prasath 🌟<br>🎓 I'm a Computer Science graduate passionate about Full Stack Development and Software Development.  <br>📚 I'm learning Python, SQL, Power BI, React, and Flask.  <br>🛠️ Built projects like a Deepfake Detection System and Smart Reminder using Replit.  <br>🎯 My goal is to become a skilled Software Developer.  <br>🙏 Thank you for visiting my profile!</center><br>
+<h1 align="center">Hi 👋, I'm Ram Prasath ✨</h1>
+<h3 align="center">A passionate Software Developer from India 🌟</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramprasath001&label=Profile%20views&color=0e75b6&style=flat" alt="ramprasath001" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ram_smily_/?next=%2Ffxcal%2Fdisclosure%2F%3Fnext%3D%252F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathofficial00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramprasathofficialsite@gmail.com) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramprasath001" alt="ramprasath001" /></a> </p>
 
-# 💻 Tech Stack:
+- 👨‍💻 All of my projects are available at [https://ramprasath001.github.io/my-portfolio/](https://ramprasath001.github.io/my-portfolio/)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ramprasathofficial00/](https://www.linkedin.com/in/ramprasathofficial00/)
+
+- 📫 How to reach me **ramprasathofficialsite@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ramprasathofficial00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramprasathofficial00" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_ram_smily_/?next=%2ffxcal%2fdisclosure%2f%3fnext%3d%252f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ram_smily_/?next=%2ffxcal%2fdisclosure%2f%3fnext%3d%252f" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramprasath00&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramprasath00&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasath00&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ramprasath00&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramprasath001&show_icons=true&locale=en&layout=compact" alt="ramprasath001" /></p>
