@@ -4,7 +4,6 @@
 🎯 My goal is to become a skilled Software Developer.<br>
 🙏 Thank you for visiting my profile!</h3>
 
-- 👨‍💻 All of my projects are available at [https://ramprasath001.github.io/my-portfolio/](https://ramprasath001.github.io/my-portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ramprasathofficial00/](https://www.linkedin.com/in/ramprasathofficial00/)
 
