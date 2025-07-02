@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ram Prasath ✨</h1>
-<h3 align="center">A passionate Software Developer from India 🌟</h3>
+<h3 align="center">🎓 I’m a Computer Science graduate passionate about Full Stack Development and Software Development.<br>
+📚 I’m learning Python, SQL, Power BI, React, and Flask.<br>
+🎯 My goal is to become a skilled Software Developer.<br>
+🙏 Thank you for visiting my profile!</h3>
 
 - 👨‍💻 All of my projects are available at [https://ramprasath001.github.io/my-portfolio/](https://ramprasath001.github.io/my-portfolio/)
 
