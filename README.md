@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Prasath ✨</h1>
 <h3 align="center">🎓 I’m a Computer Science graduate passionate about Full Stack Development and Software Development.<br>
-📚 I’m learning Python, SQL, Power BI, React, and Flask.<br>
+📚 I’m learning Python, SQL, React, and Flask.<br>
 🎯 My goal is to become a skilled Software Developer.<br>
 🙏 Thank you for visiting my profile!</h3>
 
